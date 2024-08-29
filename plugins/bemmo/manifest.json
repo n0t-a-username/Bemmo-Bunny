@@ -1,13 +1,13 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "Puttparty 2.0",
+    "description": "Automatically sends a notif when putt party is started in the server",
     "authors": [
         {
-            "name": "You!",
-            "id": "1180228592249090228"
+            "name": "Lells",
+            "id": "550957671931576321"
         }
     ],
-    "main": "src/index.ts",
+    "main": "index.js",
     "vendetta": {
         "icon": "ic_badge_staff"
     }
