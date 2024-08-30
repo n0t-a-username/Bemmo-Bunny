@@ -1,3 +1,4 @@
+/*
 import { registerCommand } from "@vendetta/commands";
 import { findByProps } from "@vendetta/metro";
 
@@ -64,3 +65,4 @@ commands.push(registerCommand({
     }
   },
 }));
+*/
