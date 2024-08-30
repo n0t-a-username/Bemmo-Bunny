@@ -49,7 +49,9 @@ const plugins = [
 ];
 
 for (let plug of await readdir("./plugins")) {
-    const manifest = JSON.parse(await readFile(`./plugins/${plug}/manifest.json`));
+    const manifest = JSON.parse(
+    await readFile(`./plugins/${plug}/manifest.json`),
+  );
     const outPath = `./dist/${plug}/index.js`;
 
     try {
