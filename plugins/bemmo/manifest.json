@@ -1,14 +1,14 @@
 {
-    "name": "Puttparty 2.0",
-    "description": "Automatically sends a notif when putt party is started in the server",
-    "authors": [
-        {
-            "name": "Lells",
-            "id": "1180228592249090228"
-        }
-    ],
-    "main": "src/index.ts",
-    "vendetta": {
-        "icon": "ic_badge_staff"
+  "name": "Puttparty 2.0",
+  "description": "Automatically sends a notif when putt party is started in the server",
+  "authors": [
+    {
+      "name": "Lells"",
+      "id": "1180228592249090228"
     }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
 }
